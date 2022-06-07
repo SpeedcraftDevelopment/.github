@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Luka w zabezpieczeniach
-    url: https://discord.gg/A4DGzZk4Xf
-    about: "Aby zapobiec wykorzystywaniu luk w zabezpieczeniach, należy zgłaszać je prywatnie na kanale #support na discordzie."
+    url: https://discord.gg/XGmvgKNYgV
+    about: "Aby zapobiec wykorzystywaniu luk w zabezpieczeniach, należy zgłaszać je prywatnie na kanale #create-a-ticket na discordzie."
   - name: Security Vulnerability
-    url: https://discord.gg/A4DGzZk4Xf
+    url: https://discord.gg/XGmvgKNYgV
     about: To prevent exploitation of security vulnerabilities, please report them privately as a support ticket on our discord server.
