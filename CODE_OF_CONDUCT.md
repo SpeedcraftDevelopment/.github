@@ -14,6 +14,7 @@ Zobowiązujemy się działać i współdziałać w sposób, który przyczynia si
  * *Lex retro non agit*
  * Poprzednia zasada może zostać złamana przez moderację w przypdakach ekstremelnego naruszenia zasad. W innych przypadkach moderator lub administrator może udzielić tylko i wyłącznie upomnienia.
  * Zakazane jest publikowanie jakichkolwiek danych osobowych.
+ * Zakazane jest przez deweloperów projektu rozpowrzechnianie niezaciemnionego jak i zaciemnionego kodu źródłowego pochodzącego z prywatnych repozytoriów.
 ## Kary
 ### Upomnienie
 Kara upomnienia jest wykonywana w przypadku drobnego naruszenia zasad, bądź zrobienia czegoś co wymaga utworzenia nowej zasady (z wyjątkiem ekstremalnych przypadków, wtedy otrzymuje się Prenamętną Blokadę). Upomnienia nie są nigdzie rejestrowane i nie ograniczają osoby karanej w społeczności.
